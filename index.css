@@ -1,0 +1,18 @@
+@import '~@lumino/default-theme/style/index.css';
+
+body {
+    position: absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+}
+body > div {
+    height:100%;
+    width:100%;
+}
+
+regular-table {
+    min-height: 500px;
+    min-width: 500px;
+}
